@@ -121,3 +121,5 @@ Version-Overrides:
     - tomcat
     - tomcat6
     - web_framework
+    
+Source-Url: git://github.com/qiushui/jbossews.git
